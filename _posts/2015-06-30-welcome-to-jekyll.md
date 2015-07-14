@@ -62,3 +62,4 @@ ordered list
 here is an image
 
 ![picture](http://www.mullerover.com/wp-content/uploads/2011/07/dog_gets_it.jpg)
+
